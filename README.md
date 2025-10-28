@@ -14,7 +14,7 @@ Estou em busca de **estágios ou oportunidades de desenvolvimento** para aplicar
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/diegxdd/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diego-clemente-pessoa-developer/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:diegopessoa160@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:devdg@gmaixxl.com)
 
 
 

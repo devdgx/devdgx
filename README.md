@@ -8,7 +8,7 @@
 
 🛠️ Meu objetivo é atuar como **Desenvolvedor Back-end** ou **Analista de Sistemas**, contribuindo para projetos reais e aprimorando minhas habilidades em **Java** e desenvolvimento de soluções tecnológicas de qualidade.
 
-Estou em busca de **estágios ou oportunidades de desenvolvimento** para aplicar meus conhecimentos em **Java** e **engenharia de software**, e crescer profissionalmente na área.
+Estou em busca de **estágios ou oportunidades de desenvolvimento** para aplicar meus conhecimentos em **Java** e **engenharia de software**, e crescer profissionalmente na área
 
 
 ## 🌐 Socials:
